@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RedBeanN/node-xibao.git"
+    "url": "git+https://github.com/RedBeanN/xibao.git"
   },
   "author": "RedBeanN",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RedBeanN/node-xibao/issues"
+    "url": "https://github.com/RedBeanN/xibao/issues"
   },
-  "homepage": "https://github.com/RedBeanN/node-xibao#readme",
+  "homepage": "https://github.com/RedBeanN/xibao#readme",
   "dependencies": {
-    "sharp": "^0.32.0"
+    "sharp": "^0.32.0",
+    "text-to-svg": "^3.1.5"
   }
 }
