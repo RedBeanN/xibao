@@ -4,3 +4,4 @@ yarn.lock
 *.tmp
 *.log
 test.png
+test.js
