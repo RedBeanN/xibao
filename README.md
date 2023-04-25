@@ -1,5 +1,7 @@
 # xibao
 
+[![NPM Version](https://img.shields.io/npm/v/xibao)](https://www.npmjs.com/package/xibao)
+
 一个使用 `nodejs` 合成喜报/悲报图片的小工具, 合成图片基于高效的 [`sharp`](https://sharp.pixelplumbing.com)，仅需数毫秒即可合成一张喜报！
 
 ## Usage
